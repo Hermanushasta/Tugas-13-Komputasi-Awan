@@ -41,7 +41,7 @@ git commit -m "Initial commit"
 - File: `.env.example` - Template konfigurasi
 - Environment variables: APP_NAME, APP_ENV, APP_PORT, LOG_LEVEL, MAX_WORKERS
 
-### 4. Concurrency (Bonus Implementation)
+### 4. Concurrency
 
 - Aplikasi dibagi menjadi modular services
 - Setiap service bisa di-scale independently
